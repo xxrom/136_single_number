@@ -1,0 +1,9 @@
+{
+  "name": "136_single_number",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+,"scripts": { "dev": "nodemon --exec python3 main.py ./main.py" }}
